@@ -1,5 +1,5 @@
-# Groupme Mention
-Groupme Mention is a bot framework that allows users to create custom groups to tag multiple people at ocne. This project was built with Python using Flask.
+# GroupMe Mention
+Groupme Mention is a bot framework that allows users to create custom groups to tag multiple people at once. This project was built with Python using Flask.
 
 ## Getting Started
 
