@@ -2,13 +2,6 @@
 Groupme Mention is a bot framework that allows users to create custom groups to tag multiple people at once. This project was built with Python using Flask.
 
 ## Getting Started
-
-### Demo
-
-Test out a version of this project at https://projects.aravindnatch.me
-
-### Self-Hosted
-
 You will need to retrieve a GroupMe application token, your group id, and that group's bot id. **Be sure to set your GroupMe callback url to the url that your server will be running on (ex. public.ip:3106 or xxx.duckdns.org:3106)**
 
 1. Install dependencies
