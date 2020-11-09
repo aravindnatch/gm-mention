@@ -38,7 +38,7 @@ Add Members to a Group
 !add @testgroup @member1 @member2
 ```
 
-Remove Members from a group
+Remove Members From a Group
 ```
 !remove @testgroup @member1 @member2
 ```
@@ -51,6 +51,11 @@ List All Taggable Groups
 List Members in a Group
 ```
 !members @testgroup
+```
+
+Any Member Action to Yourself
+```
+... @myself
 ```
 
 ### Invocation
